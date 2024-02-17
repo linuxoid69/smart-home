@@ -1,0 +1,11 @@
+accessId: xxx
+accessKey: xxx
+
+scrape:
+  checkInterval: 1
+
+devices:
+  - name: kitchen
+    deviceId: 123
+  - name: bedroom
+    deviceId: 321
